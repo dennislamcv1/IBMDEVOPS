@@ -6,6 +6,7 @@ RUN go build main.go
 
 FROM ubuntu:18.04
 
+
 COPY --from=builder /go//main /app/guestbook
 
 ADD public/index.html /app/public/index.html
