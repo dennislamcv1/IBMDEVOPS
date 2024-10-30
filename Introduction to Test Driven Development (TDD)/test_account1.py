@@ -1,6 +1,7 @@
 """
 Test Cases TestAccountModel
 """
+
 import json
 from unittest import TestCase
 from models import db
