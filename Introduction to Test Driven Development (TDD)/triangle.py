@@ -7,6 +7,7 @@ def area_of_a_triangle(base: float, height: float) -> float:
     if type(height) not in [int, float]:
         raise TypeError("Height must be a number")
 
+    
     # Check if we have the correct parameter values
     if base < 0:
         raise ValueError("Base must be a positive number")
