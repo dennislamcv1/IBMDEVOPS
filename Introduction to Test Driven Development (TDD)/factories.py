@@ -7,6 +7,7 @@ Documentation on Faker Providers:
 Documentation on Fuzzy Attributes:
     https://factoryboy.readthedocs.io/en/stable/fuzzy.html
 
+
 """
 import factory
 from datetime import date
