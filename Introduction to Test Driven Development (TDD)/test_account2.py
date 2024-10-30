@@ -2,6 +2,7 @@
 Test Cases TestAccountModel
 """
 import json
+
 from random import randrange
 from unittest import TestCase
 from models import db
