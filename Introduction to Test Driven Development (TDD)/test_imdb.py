@@ -11,6 +11,7 @@ IMDB_DATA = {}
 
 class TestIMDbDatabase(TestCase):
     """Tests Cases for IMDb Database"""
+    
 
     @classmethod
     def setUpClass(cls):
