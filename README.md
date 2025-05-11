@@ -1,5 +1,6 @@
-# IBMDevOps
-## DevOps and Software Engineering Professional Certificate
+# IBMDEVOPS
+
+## DevOps and Software Engineering Professional Certificate (15 course series)
 
 ### About this Professional Certificate
 
@@ -14,16 +15,3 @@ You will learn to program with the Python language and Linux shell scripts,  cre
 Guided by experts at IBM, you will be prepared for success.​ Labs and projects in this certificate program are designed to equip job-ready hands-on skills that will help you launch a new career in a highly in-demand field. 
 
 This professional certificate is suitable for both - those who have none or some programming experience, as well as those with and without college degrees.
-
-### Applied Learning Project
-
-Throughout the courses in this Professional Certificate,  you will develop a portfolio of projects to demonstrate your proficiency using various popular tools and technologies in DevOps and Cloud Native Software Engineering. 
-
-You will: 
-
-- Create applications using Python programming language, using different programming constructs and logic, including functions, REST APIs, and various Python libraries.
-- Develop Linux Shell Scripts using Bash and automate repetitive tasks
-- Create projects on GitHub and work with Git commands
-- Build  and deploy applications composed of several microservices and deploy  them to cloud using containerization tools (such as Docker, Kubernetes,  and OpenShift); and serverless technologies
-- Employ various tools for automation, continuous integration (CI) and  continuous deployment (CD) of software including Chef, Puppet, GitHub  Actions, Tekton and Travis.
-- Secure and Monitor your applications and cloud deployments using tools like sysdig and Prometheus.
